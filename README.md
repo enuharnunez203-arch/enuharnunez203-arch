@@ -16,10 +16,10 @@
 
 Este proyecto fue construido usando tecnologías web estándar:
 
-* **HTML5:** Para la estructura y el contenido semántico.
-* **CSS3:** Para el diseño, layout (usando Flexbox/Grid) y la responsividad.
-* **JavaScript (ES6+):** Para la interactividad (ej. un menú móvil, modals, etc.).
-* **GitHub Pages:** Para el alojamiento (hosting) gratuito.
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **GitHub Pages**
 
 ---
 
