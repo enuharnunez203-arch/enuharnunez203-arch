@@ -1,16 +1,56 @@
-## Hi there 👋
+# Portafolio Personal de Enuhar 
 
-<!--
-**enuharnunez203-arch/enuharnunez203-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ### 🔴 En Vivo: [https://tu-usuario.github.io](https://tu-usuario.github.io)
 
-Here are some ideas to get you started:
+¡Bienvenido al repositorio de mi portafolio personal! Este sitio web fue construido desde cero para mostrar mis habilidades, proyectos y experiencia como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📸 Vista Previa (Screenshot)
+
+![Vista previa del portafolio](./images/screenshot-portfolio.png)
+
+*(Recomendación: Crea una carpeta "images" en tu proyecto, toma una captura de pantalla de tu sitio y guárdala ahí como "screenshot-portfolio.png" para que esta imagen funcione)*
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+Este proyecto fue construido usando tecnologías web estándar:
+
+* **HTML5:** Para la estructura y el contenido semántico.
+* **CSS3:** Para el diseño, layout (usando Flexbox/Grid) y la responsividad.
+* **JavaScript (ES6+):** Para la interactividad (ej. un menú móvil, modals, etc.).
+* **GitHub Pages:** Para el alojamiento (hosting) gratuito.
+
+---
+
+### 🏃‍♂️ Cómo ver el proyecto localmente
+
+Si deseas explorar el código o ver cómo funciona en tu propia máquina:
+
+1.  **Clona el repositorio:**
+    ```bash
+    
+    ```
+
+2.  **Navega a la carpeta:**
+    ```bash
+    cd enuharnunez203-arch.github.io
+    ```
+
+3.  **Abre el archivo `index.html`:**
+    Simplemente abre `index.html` en tu navegador web preferido. ¡No requiere instalación!
+
+---
+
+### 📬 Contacto
+
+¿Interesado en conectar o hablar sobre un proyecto?
+
+* **LinkedIn:** [https://linkedin.com/in/tu-perfil-linkedin](https://linkedin.com/in/tu-perfil-linkedin)
+* **Email:** [enuharnunez203@gmail.com](mailto:enuharnunez203@gmail.com)
+
+---
+
+### 📄 Licencia
+
+Este proyecto está bajo la **Licencia MIT**. - mira el archivo [LICENSE](LICENSE) para más detalles.
