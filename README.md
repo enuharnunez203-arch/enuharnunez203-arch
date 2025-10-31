@@ -29,7 +29,7 @@ Si deseas explorar el código o ver cómo funciona en tu propia máquina:
 
 1.  **Clona el repositorio:**
     ```bash
-    
+     git clone https://github.com/enuharnunez203-arch/enuharnunez203-arch.git
     ```
 
 2.  **Navega a la carpeta:**
