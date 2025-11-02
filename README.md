@@ -1,6 +1,6 @@
 # Portafolio Personal de Enuhar 
 
-> ### 🔴 En Vivo: [https://tu-usuario.github.io](https://tu-usuario.github.io)
+> ### 🔴 En Vivo: [https://enuharnunez203-arch.github.io](https://enuharnunez203-arch.github.io)
 
 ¡Bienvenido al repositorio de mi portafolio personal! Este sitio web fue construido desde cero para mostrar mis habilidades, proyectos y experiencia como desarrollador.
 
@@ -18,7 +18,6 @@ Este proyecto fue construido usando tecnologías web estándar:
 
 * **HTML5**
 * **CSS3**
-* **JavaScript**
 * **GitHub Pages**
 
 ---
